@@ -1,0 +1,158 @@
+[
+  {
+      "id": 1,
+      "nombre": "Trattoria Mamma Mia",
+      "tipo_cocina": "Italiana",
+      "ingredientes": [
+          "pasta",
+          "tomate",
+          "queso"
+      ],
+      "precio_minimo": 10.0,
+      "precio_maximo": 30.0,
+      "popularidad": 5.0,
+      "disponibilidad": true,
+      "id_ubicacion": 1,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipP2ngDI91DvUEmD-UzzXZoL2b6e1acXoMTYsnLE=s680-w680-h510"
+  },
+  {
+      "id": 2,
+      "nombre": "El Charrua",
+      "tipo_cocina": "Argentina",
+      "ingredientes": [
+          "pastas",
+          "carne",
+          "mariscos"
+      ],
+      "precio_minimo": 8.0,
+      "precio_maximo": 25.0,
+      "popularidad": 4.60,
+      "disponibilidad": true,
+      "id_ubicacion": 2,
+      "imagen": "https://lh5.googleusercontent.com/p/AF1QipNlZBk73EMkRgDn2JTxrfS0_fpAlFXEL4_gmRws=w260-h175-n-k-no"
+  },
+  {
+      "id": 3,
+      "nombre": "La Fiamma",
+      "tipo_cocina": "Italiana",
+      "ingredientes": [
+          "pizzas",
+          "pastas",
+          "carnes"
+      ],
+      "precio_minimo": 15.0,
+      "precio_maximo": 45.0,
+      "popularidad": 3.7,
+      "disponibilidad": true,
+      "id_ubicacion": 3,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipNwsrd4lsMV9NQ_jSojfFmBlVO2e--g7RnBJW49=s680-w680-h510"
+  },
+  {
+      "id": 4,
+      "nombre": "Pizza Salta Pueyrredon",
+      "tipo_cocina": "Italiana",
+      "ingredientes": [
+          "Pizzas",
+          "Calzones",
+          "Empanadas"
+      ],
+      "precio_minimo": 5.0,
+      "precio_maximo": 15.0,
+      "popularidad": 4.0,
+      "disponibilidad": true,
+      "id_ubicacion": 4,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipNic8KMPuzm9vVGt10sB2wyz-d8NaJXpqUZoukG=s680-w680-h510"
+  },
+  {
+      "id": 5,
+      "nombre": "La Criollita",
+      "tipo_cocina": "Argentina",
+      "ingredientes": [
+          "Carnes",
+          "Pastas"
+      ],
+      "precio_minimo": 10.0,
+      "precio_maximo": 40.0,
+      "popularidad": 4.0,
+      "disponibilidad": true,
+      "id_ubicacion": 5,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipM1QxG057nwVRwvptI2BfGFZ-zlukmucjNlSGA0=s680-w680-h510"
+  },
+  {
+      "id": 6,
+      "nombre": "Empanadas el Guille",
+      "tipo_cocina": "Argentina",
+      "ingredientes": [
+          "Empandas de pollo",
+          "carne",
+          "queso"
+      ],
+      "precio_minimo": 8.0,
+      "precio_maximo": 20.0,
+      "popularidad": 4.0,
+      "disponibilidad": true,
+      "id_ubicacion": 6,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipN3_Mt-tT7iR3lJSYqWeQcFsBwoWnGQL8OKDFvL=s680-w680-h510"
+  },
+  {
+      "id": 7,
+      "nombre": "Parrilla Don Juan",
+      "tipo_cocina": "Parrilla",
+      "ingredientes": [
+          "carne",
+          "verduras"
+      ],
+      "precio_minimo": 15.0,
+      "precio_maximo": 50.0,
+      "popularidad": 4.0,
+      "disponibilidad": true,
+      "id_ubicacion": 7,
+      "imagen": "https://lh5.googleusercontent.com/p/AF1QipM1VwlGcpq4xwTgGkwWOtaCUoXuEC2AzQjuxhuj=w260-h175-n-k-no"
+  },
+  {
+      "id": 8,
+      "nombre": "Dragon Wok",
+      "tipo_cocina": "China",
+      "ingredientes": [
+          "arroz",
+          "pollo"
+      ],
+      "precio_minimo": 10.0,
+      "precio_maximo": 30.0,
+      "popularidad": 4.5,
+      "disponibilidad": true,
+      "id_ubicacion": 8,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipNy5Gbr5M_K2L3cVpSEoVmM6r7k_zKgVOjTRTA6=s680-w680-h510"
+  },
+  {
+      "id": 9,
+      "nombre": "La Baguette",
+      "tipo_cocina": "Francesa",
+      "ingredientes": [
+          "pan",
+          "queso"
+      ],
+      "precio_minimo": 8.0,
+      "precio_maximo": 25.0,
+      "popularidad": 5.0,
+      "disponibilidad": true,
+      "id_ubicacion": 9,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipM1M1MXpsE-fIW9xZU_EhAOkEHRnTg3YAeOen5n=s680-w680-h510"
+  },
+  {
+      "id": 10,
+      "nombre": "The Royal Indian",
+      "tipo_cocina": "Arabe",
+      "ingredientes": [
+          "arroz",
+          "pollo",
+          "curry"
+      ],
+      "precio_minimo": 12.0,
+      "precio_maximo": 28.0,
+      "popularidad": 5.0,
+      "disponibilidad": true,
+      "id_ubicacion": 10,
+      "imagen": "https://lh3.googleusercontent.com/p/AF1QipPf9jUB5B3-DMSSQGTqFAcFJnn6tTLUjmbcDu_c=s680-w680-h510"
+  }
+]

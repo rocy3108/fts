@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "direccion": "Pje. Zorrilla 1, A4400 Salta",
+        "coordenadas": [
+            -24.79024564287792,
+            -65.40210575687009
+        ]
+    },
+    {
+        "id": 2,
+        "direccion": "Gral. Martin Güemes 186, A4400 Salta",
+        "coordenadas": [
+            -24.78655448677337,
+            -65.40486040064857
+        ]
+    },
+    {
+        "id": 3,
+        "direccion": "Catamarca 370, A4400 Salta",
+        "coordenadas": [
+            -24.793946849053984,
+            -65.40631146026385
+        ]
+    },
+    {
+        "id": 4,
+        "direccion": "Pueyrredón 444, A4400 Salta",
+        "coordenadas": [
+            -24.78457715939391,
+            -65.40595474183777
+        ]
+    },
+    {
+        "id": 5,
+        "direccion": "Zuviria 306, A4400 Salta",
+        "coordenadas": [
+            -24.786164868117254,
+            -65.40921630793105
+        ]
+    },
+    {
+        "id": 6,
+        "direccion": "Barrio Limache",
+        "coordenadas": [
+            -24.850843800070482,
+            -65.42236802855952
+        ]
+    },
+    {
+        "id": 7,
+        "direccion": "La Rioja 393, A4400 Salta",
+        "coordenadas": [
+            -24.798664995072453,
+            -65.4088422498119
+        ]
+    },
+    {
+        "id": 8,
+        "direccion": "Bartolomé Mitre 268",
+        "coordenadas": [
+            -24.786919443998745,
+            -65.41069236085522
+        ]
+    },
+    {
+        "id": 9,
+        "direccion": "Urquiza 709, A4400 Salta",
+        "coordenadas": [
+            -24.792208380839707,
+            -65.41282203478652
+        ]
+    },
+    {
+        "id": 10,
+        "direccion": "Av. San Martín 204, Salta",
+        "coordenadas": [
+            -24.793757032405292,
+            -65.40589120679127
+        ]
+    }
+]
